@@ -1,4 +1,4 @@
-FROM ghost-python3
+FROM flower1024/ghost-python3
 
 ARG UID=82
 ARG GID=82
